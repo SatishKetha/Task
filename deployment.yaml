@@ -40,4 +40,4 @@ spec:
         image: satish2797/node-web-app:latest
         imagePullPolicy: Always
         ports:
-        - containerPort: 8000
+        - containerPort: 3000
