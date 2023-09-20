@@ -37,7 +37,7 @@ spec:
     spec:
       containers:
       - name:  node-app
-        image: satishketha2797/node-web-app:latest
+        image: satish2797/node-web-app:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8000
