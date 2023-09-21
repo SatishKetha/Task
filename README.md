@@ -59,10 +59,17 @@
         username: admin
    
         password: prom-operator
+   
 
    k.Here we should check for "Node Exporter/USE method/Node" and "Node Exporter/USE method/Cluster" USE - Utilization, Saturation, Errors
     
    l.Even we can check the behaviour of each pod, node, and cluster
+
+
+
+![image](https://github.com/SatishKetha/Task/assets/83595823/62b190dd-b78d-4636-a3ea-6ae16b3aaafe)
+
+   
 
    
    
